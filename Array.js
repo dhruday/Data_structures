@@ -38,6 +38,7 @@ const newArray = new Array();
 newArray.push('Hruday');
 newArray.push('Sravan');
 newArray.push('Vijaya');
+newArray.pop();
 newArray.push('Balaiah');
 newArray.push('Vijaya');
 newArray.delete(2);
