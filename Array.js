@@ -12,6 +12,7 @@ class Array {
     delete this.data[this.length];
     this.length--
   }
+  
 
   delete(i) {
     const deletedItem = this.data[i];
